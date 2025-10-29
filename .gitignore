@@ -9,12 +9,12 @@ lerna-debug.log*
 
 node_modules/
 package-lock.json
-dist
+dist/
+build/
 dist-ssr
 *.local
 # production
-/dist
-/build
+
 
 # Editor directories and files
 .vscode/*
