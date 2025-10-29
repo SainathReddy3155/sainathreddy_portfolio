@@ -132,3 +132,12 @@ button:focus-visible {
   transform: none; 
   text-shadow: rgba(59, 130, 246, 0.3) 0px 0px 0px;
 }
+.career{
+  text-decoration: underline;
+  text-underline-offset: 8px;
+  text-decoration-thickness: 2px;
+  text-decoration-color: #6366f1;
+  opacity: 1; 
+  transform: none; 
+  text-shadow: rgba(59, 130, 246, 0.3) 0px 0px 0px;
+}

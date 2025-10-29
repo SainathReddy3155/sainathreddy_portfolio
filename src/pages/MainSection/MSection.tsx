@@ -4,6 +4,7 @@ import GitHubIcon from "@mui/icons-material/GitHub";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import ArrowDownwardIcon from '@mui/icons-material/ArrowDownward';
 import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
+
 function MSection() {
   return (
     <>
@@ -91,7 +92,8 @@ function MSection() {
       >
         <div className="relative">
           <img
-            src="/public/IMG_4153.jpeg" 
+            src='https://rupireddysainathreddy.netlify.app/IMG_4153.jpeg'
+            // src="/public/IMG_4153.jpeg" 
             alt="Sainath Reddy"
             className="profileimg w-64 h-64 md:w-80 md:h-80 object-cover rounded-2xl shadow-2xl border-4 border-gray-300"
           />

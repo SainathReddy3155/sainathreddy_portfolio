@@ -7,7 +7,7 @@ import { MdOutlineWeb } from "react-icons/md";
 function Projects() {
   return (
     <>
-     <div id="projects" className="py-16">
+     <div id="projects" className="py-20 pb-10">
       {/* Section Heading */}
       <motion.div
         initial={{ opacity: 0, x: 50 }}
