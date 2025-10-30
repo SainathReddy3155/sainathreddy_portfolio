@@ -60,6 +60,9 @@ const Contact = () => {
         >
           Feel free to reach out for collaborations, freelance projects, or just
           a friendly chat. I’d love to connect!
+          Please contact me directly at reddy.sainath3155@gmail.com
+
+            +1 (571) 576-4270 or through this form below.
         </Typography>
       </motion.div>
 

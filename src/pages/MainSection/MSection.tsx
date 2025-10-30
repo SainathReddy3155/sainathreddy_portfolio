@@ -8,7 +8,7 @@ import ArrowRightAltIcon from '@mui/icons-material/ArrowRightAlt';
 function MSection() {
   return (
     <>
-    <section className="relative w-full min-h-screen flex flex-col-reverse md:flex-row items-center justify-center overflow-hidden">
+    <section id= "home" className="relative w-full min-h-screen flex flex-col-reverse md:flex-row items-center justify-center overflow-hidden">
       {/* LEFT SIDE */}
       <motion.div
         initial={{ opacity: 0, x: -50 }}

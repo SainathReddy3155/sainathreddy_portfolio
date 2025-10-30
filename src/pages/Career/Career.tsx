@@ -31,7 +31,7 @@ const experiences = [
     label: "Software Engineer — Ford (Michigan)",
     date: "Sep 2023 – Sep 2024",
     description:
-      "Developed full-stack apps using React.js (TypeScript, Redux, Tailwind) & Flask APIs. Optimized database queries reducing page load time by 45%. Implemented JWT-based authentication and CI/CD pipelines with GitHub Actions. Managed Dockerized deployments for scalability.",
+      "Developed full-stack apps using React.js (Redux, Tailwind) & Flask APIs. Optimized database queries reducing page load time by 45%. Implemented JWT-based authentication and CI/CD pipelines with GitHub Actions. Managed Dockerized deployments for scalability.",
     icon: <Cloud fontSize='large' color='primary' />,
   },
   {
@@ -52,14 +52,14 @@ const experiences = [
 
 const education = [
   {
-    label: "Master’s in Information Systems — Wilmington University, DE",
+    label: "Master’s in Information Systems",
     date: "Aug 2023 – Dec 2024",
     description:
       "Specialized in Full Stack Development, Cloud Computing, and Data Engineering with a GPA of 3.8 / 4.",
     icon: <School fontSize='large' color='secondary' />,
   },
   {
-    label: "Bachelor of Technology — Bharat Institute, Hyderabad",
+    label: "Bachelor of Technology — JNTU, Hyderabad",
     date: "Sep 2017 – May 2021",
     description:
       "Focused on Software Engineering, Database Systems, and Algorithms with a GPA of 3 / 4.",

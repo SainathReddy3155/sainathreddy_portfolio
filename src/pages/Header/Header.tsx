@@ -4,7 +4,7 @@ import MenuIcon from "@mui/icons-material/Menu";
 import CloseIcon from "@mui/icons-material/Close";
 
 const navItems = [
-  { name: "Home", href: "#" },
+  { name: "Home", href: "#home" },
   { name: "About", href: "#about" },
   { name: "Projects", href: "#projects" },
   { name: "Skills", href: "#skills" },
@@ -22,7 +22,7 @@ function Header() {
         transition={{ duration: 0.7, ease: 'easeInOut' }}
         className="text-gray-800 fixed top-0 left-1/2 transform -translate-x-1/2 w-fit z-50 shadow-lg flex justify-center"
       >
-        <div className="px-8 py-2 flex justify-center items-center rounded-[25px] mt-2 shadow-md" style={{background: '#f1f6ff'}}>
+        <div className="px-8 py-2 flex justify-center items-center rounded-[25px] mt-2 shadow-md" id="home" style={{background: '#f1f6ff'}}>
           {/* Desktop Menu Centered */}
           <div className="hidden md:flex space-x-8">
             {navItems.map((item, idx) => (

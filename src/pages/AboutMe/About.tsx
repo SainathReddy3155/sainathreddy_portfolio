@@ -24,9 +24,6 @@ function About() {
     Throughout my career, I've had the opportunity to work on diverse projects, ranging from small business websites to large-scale enterprise applications. I thrive in collaborative environments and enjoy mentoring junior developers to help them grow their skills.
   </p>
 
-  {/* <p className="text-lg text-gray-700 dark:text-black-500 max-w-3xl leading-relaxed mt-6">
-    When I'm not coding, I love exploring new technologies, contributing to open-source projects, and staying updated with the latest industry trends. I'm always eager to take on new challenges and contribute to innovative projects that make a difference.
-  </p> */}
 </section>
 
  </section>
